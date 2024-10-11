@@ -1,1 +1,2 @@
 bot3010gpt2.exe filter=lfs diff=lfs merge=lfs -text
+bot3010gpt3 filter=lfs diff=lfs merge=lfs -text
